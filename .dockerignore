@@ -1,0 +1,12 @@
+# local Python virtual environment
+.venv/
+.env
+
+# local R virtual environment
+/renv/
+renv.lock
+.Rprofile
+
+# development environment
+.vscode/
+/data/
